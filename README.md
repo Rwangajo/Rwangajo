@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rwangajo
+- 👋 Hi, I’m Jonathan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any programming projects
