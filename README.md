@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning iavascript
 - 💞️ I’m looking to collaborate on any programming projects
 - 📫 How to reach me : .Rwangajo
 
